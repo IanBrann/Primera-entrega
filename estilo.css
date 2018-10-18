@@ -20,7 +20,7 @@
 }
 
 .jumbotron-heading {
-  font-weight: 300;
+  font-weight: 800;
 }
 
 .jumbotron .container {
@@ -35,3 +35,7 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+.jumptron {
+ background:#000 url('img/bg.png') no-repeat 0 0 ;
+ background-size: cover; 
