@@ -21,7 +21,7 @@
 
 .jumbotron-heading {
   font-weight: 800;
-  background:#000 url('img/dinamicas_03') no-repeat 0 0 ;
+  background:#000 url(img/dinamicas_03) no-repeat 0 0 ;
   background-size: cover; 
 }
 
