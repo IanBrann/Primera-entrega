@@ -9,7 +9,7 @@
   background-color: 2c487c;
   background:url(img/dinamicas_03) ;
   background:no-repeat 0 0
-  background-size: cover; 
+  background-size:cover; 
 }
 @media (min-width: 768px) {
   .jumbotron {
