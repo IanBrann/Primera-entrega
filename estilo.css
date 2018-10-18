@@ -7,9 +7,9 @@
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
   background-color: 2c487c;
-  background:url(img/dinamicas_03) ;
-  background:no-repeat 0 0
-  background-size:cover; 
+  background-image: url(img/dinamicas_03) ;
+  background-position: no-repeat 0 0
+  background-size: cover; 
 }
 @media (min-width: 768px) {
   .jumbotron {
